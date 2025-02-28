@@ -1,0 +1,106 @@
+* {
+    list-style: none;
+    margin: 0;
+}
+
+.entrar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.botao {
+    background-color: #FFC72C;
+    width: 150px;
+    padding: 5px;
+}
+
+header {
+    background-image: url(img/baner.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 5px;
+}
+
+.titulo {
+   text-align: center;
+   color: white;
+}
+
+button {
+    width: 150px;
+    padding: 5px;
+}
+
+.mapa {
+    width: 10px;
+    margin-right: 5px;
+}
+.moto {
+    width: 10px;
+    margin-right: 5px;
+}
+
+.Primeiro ol{
+    display: flex;
+    font-size: 10px;
+    text-align: center;
+}
+.Primeiro ol li img {
+    display: flex;
+    width:90px;
+}
+
+.segundo{
+    display: flex;
+    justify-content: end;
+}
+
+.brasil {
+    display: flex;
+    justify-content: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.terceiro img{
+    display: flex;
+    justify-content: center;
+    width: 500px;
+}
+
+.quarto {
+    display: block;
+    justify-content: center;
+    text-align: center;
+}
+
+.quarto img {
+    width: 200px;
+}
+
+.quinto img {
+    width: 600px;
+
+}
+
+.ultimo {
+    display: block;
+    justify-content: space-between;
+    
+}
+
+summary {
+    display: flex;
+    justify-content: space-between;
+}
+.ultimo details summary img {
+    width: 10px;
+    padding: 10px;
+}
+
+summary {
+    display: flex;
+    justify-content: space-between;
+}
+footer details summary img {
+    width:10px;
+    padding: 10px;
+}
