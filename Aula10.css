@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+}
+header {
+    background: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    gap:15px;
+    padding: 20px;
+}
+header img {
+    width: 100px;
+}
+.marvel img {
+    width: 1000px;
+}
+
+.marvel {
+    display: flex;
+    justify-items: center;
+    text-align: center;
+    gap: 15px;
+    padding: 20px;
+}
