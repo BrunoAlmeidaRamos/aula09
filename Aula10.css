@@ -23,3 +23,23 @@ header img {
     gap: 15px;
     padding: 20px;
 }
+
+.ghost img {
+    width: 1000px;
+}
+
+.ghost {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 15px;
+    padding: 20px;
+}
+
+.icon  {
+    display: contents;
+    justify-items: center;
+    text-align: center;
+    padding: 20px;
+
+}
