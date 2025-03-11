@@ -33,7 +33,7 @@ header img {
 }
 
 .marvel img {
-    width: 1000px;
+    width: 700px;
 }
 
 .marvel {
@@ -46,7 +46,7 @@ header img {
 }
 
 .ghost img {
-    width: 1000px;
+    width: 700px;
 }
 
 .ghost {
@@ -96,11 +96,39 @@ button {
     justify-content: space-evenly;
 }
 
+
+.sessao-04 h2, p {
+    margin-bottom: 20px;
+}
+
 .sessao-04 div {
     width: 300px;
     height: 300px;
-    background-color: red;
+    background-color: rgb(201, 12, 12);
     color: white;
+    text-align: center;
+    padding: 15px; /*Margem interna*/
+}
+
+.sessao-04 div i {
+    color: gold;
+}
+
+.div-02 {
+    background-image: url(img/fogo.jpg);
+    background-size: cover; /*Aplicando o preenchimento total*/
+}
+
+.div-03 img {
+    width: 100px;
+    height: 100px;
+}
+
+.div-03 p {
+    font-size: 17px;
+    color: white;
+    font-weight: 600; /*Peso da font*/
+    line-height: 30px; /*Distancia entre as linhas*/
 }
 
 footer {
